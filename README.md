@@ -1,4 +1,4 @@
-# Ros
+# ROS
 
 ### Part 1: Installing ROS Noetic on Ubuntu 20.04
 
